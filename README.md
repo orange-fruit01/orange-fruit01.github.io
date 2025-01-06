@@ -35,12 +35,17 @@
 - Integrated the system with Excel and Google Sheets for seamless data management and inventory tracking.
 - Deployed the solution on AWS cloud for scalable, real-time processing and accessibility.
 
-
-
 ### Real-Time Philippine Banknote Classification and Counting Using MobileNetV2 on Raspberry Pi 4
 - Trained and implemented a Computer Vision model (MobileNetV2) with 98.67% accuracy for Philippine Bank Note Classification.
 - Integrated the system with a Raspberry Pi 4, enabling real-time processing and seamless operation.
 - Optimized system performance for hardware accuracy and speed in detecting various Philippine banknotes.
+  
+### TalentLens: AI-Resume Screener
+- Utilized Amazon Titan Embed Text to convert PDF resumes into vector representations for semantic analysis.
+- Deployed Claude Sonnet 3.5 AI to assess resumes based on key criteria like skills, experience, and qualifications.
+- Automated the rating and sorting of applicants, saving time for hiring teams to focus on the most promising candidates.
+- Stored output in Google Sheets and updated applicant information in DynamoDB for seamless tracking and analysis.
+
 
 ## Hobbies and Interests
 - Sports: Pickleball, Crossfit, Bowling, Biking, Hiking, Brazilian Jiu Jitsu
