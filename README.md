@@ -6,11 +6,12 @@
 
 ## Education
 **Bachelor of Science in Computer Engineering @ De La Salle University (_Graduating February 2024_)**
-- GPA: 3.411/4.00; Graduating Cum Laude
+- Graduating Cum Laude
+- GPA: 3.411/4.00
 - Gold Thesis Awardee in the Department of Electronics and Computer Engineering 2024
 
 ## Professional Work Experience
-**Artificial Intelligence Intern @ Isla Lipana & Co. (PwC Philippines) (_May 2024 - Aug 2024_)**
+**Artificial Intelligence Intern @ Isla Lipana & Co./PwC Philippines (_May 2024 - Aug 2024_)**
 - Part of the pioneering team at the Artificial Intelligence Lab of PwC.
 - Led the creation and presentation of proof of concepts projects (PoC) use case which utilizes Amazon Web Services (AWS) technologies such as EC2, Amazon Bedrock, SageMaker, Lambda, Transcribe, Polly, S3 and DynamoDB.
 - Developed and implemented an end-to-end screening application to streamline and enhance the hiring process, improving efficiency and reducing time-to-hire.
@@ -20,7 +21,7 @@
 - Led and managed multiple events, with a specific emphasis on recruitment and assessment of associates within the organization.
 - Managed and coordinated a team of 5 associates, overseeing the internal operations and ensuring efficient workflow within the organization.
 
-## Projects
+## Thesis Dissertation and Projects
 ### CHICS: Chicken Harvesting IoT and Computational System For Poultry Performance Prediction and Anomaly Detection Using XGBoost for Time Series Forecasting
 - Awarded Gold Thesis in the Department of Electronics and Computer Engineering 2024.
 - Spearheaded and led a team of 4 in the development of CHICS.
