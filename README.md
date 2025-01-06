@@ -6,7 +6,7 @@
 
 <details>
   <summary>Click to see my portrait</summary>
-  ![Portfolio Portrait](/assets/img/Justin Bisuna_Portrait.jpg)
+![Portfolio Portrait](/assets/img/Justin_Bisuna_Portrait.jpg)
 </details>
 
 ## Education
