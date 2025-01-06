@@ -1,4 +1,4 @@
-# Artificial Intellgience & Machine Learning Engineer/Researcher
+# Artificial Intelligence & Machine Learning Engineer/Researcher
 
 ## Skills and Certifications
 **Industry Knowledge**: Cloud (AWS), Applied Machine Learning, Project Management, Python, Artificial Intelligence Integration, EC2 Integration, Data Engineering, Feature Engineering, Jira Board, Amazon Bedrock, Amazon SageMaker, Time Series Modeling, Regression Modeling, Generative AI, Data Scraping<br>
