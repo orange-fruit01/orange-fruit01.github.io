@@ -6,10 +6,10 @@
 
 <details>
   <summary>Click to see my portrait</summary>
-![Portfolio Portrait](assets/img/Justin_Bisuna_Portrait.jpg)
+  <img src="/assets/img/Justin_Bisuna_Portrait.jpg" alt = "Portfolio Portrait" />
+  
+  
 </details>
-
-![Portfolio Portrait](/assets/img/Justin_Bisuna_Portrait.jpg)
 
 
 ## Education
