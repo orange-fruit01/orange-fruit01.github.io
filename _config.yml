@@ -3,7 +3,7 @@ logo: /assets/img/Justin Bisuna_Portrait.jpg
 #description: text below image
 # show_downloads: true
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minima
 
 # OTHER THEMES
 # Architect
