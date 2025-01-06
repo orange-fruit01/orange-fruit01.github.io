@@ -2,7 +2,7 @@ title: Justin Bisuna
 logo: /assets/img/Justin Bisuna_Portrait.jpg
 description: Justin Bisuna is a Computer Engineering student from De La Salle University, graduating in February 2025 with Cum Laude honors and Gold Thesis Awardee. He was one of the pioneers of PwC's Artificial Intelligence Lab, where he led the development of proof-of-concept projects using AWS technologies to improve business processes. Justin also served as the Associate Vice Chairperson for Human Resource and Development at his university's Council of Student Organization (CSO), focusing on well-being and organizational management. He is skilled in data science, machine learning, and project management, with a strong track record of implementing technology-driven solutions in various projects.
 
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
 
 # OTHER THEMES
