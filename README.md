@@ -9,6 +9,9 @@
 ![Portfolio Portrait](assets/img/Justin_Bisuna_Portrait.jpg)
 </details>
 
+![Portfolio Portrait](/assets/img/Justin_Bisuna_Portrait.jpg)
+
+
 ## Education
 **Bachelor of Science in Computer Engineering @ De La Salle University (_Graduating February 2024_)**
 - Graduating Cum Laude
