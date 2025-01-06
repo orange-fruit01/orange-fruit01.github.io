@@ -42,4 +42,5 @@
 - Integrated the system with a Raspberry Pi 4, enabling real-time processing and seamless operation.
 - Optimized system performance for hardware accuracy and speed in detecting various Philippine banknotes.
 
-
+## Hobbies and Interests
+- Pickleball, Crossfit, Bowling, Biking, Hiking, Gaming - Valorant and League of Legends, Brazilian Jiu Jitsu
