@@ -4,6 +4,11 @@
 **Industry Knowledge**: Cloud (AWS), Applied Machine Learning, Project Management, Python, Artificial Intelligence Integration, EC2 Integration, Data Engineering, Feature Engineering, Jira Board, Amazon Bedrock, Amazon SageMaker, Time Series Modeling, Regression Modeling, Generative AI, Data Scraping<br>
 **Certifications**: AWS Certified AI Practitioner, NVIDIA Fundamentals of Deep Learning Certified, IBM Deep Learning Fundamentals, AWS Planning a Machine Learning Project
 
+<details>
+  <summary>Click to see my portrait</summary>
+  ![Portfolio Portrait](/assets/img/Justin Bisuna_Portrait.jpg)
+</details>
+
 ## Education
 **Bachelor of Science in Computer Engineering @ De La Salle University (_Graduating February 2024_)**
 - Graduating Cum Laude
