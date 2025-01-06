@@ -43,4 +43,6 @@
 - Optimized system performance for hardware accuracy and speed in detecting various Philippine banknotes.
 
 ## Hobbies and Interests
-- Pickleball, Crossfit, Bowling, Biking, Hiking, Gaming - Valorant and League of Legends, Brazilian Jiu Jitsu
+- Sports: Pickleball, Crossfit, Bowling, Biking, Hiking, Brazilian Jiu Jitsu
+- Interests: Watches, Coffee
+- Hobbies: Valorant and League of Legends, Watching movies
