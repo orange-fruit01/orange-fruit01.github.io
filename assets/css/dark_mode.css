@@ -1,24 +1,4 @@
-
-body {
-    background-color: white;
-    color: black;
-}
-
-
 body.dark-mode {
     background-color: #121212;
     color: white;
-}
-
-
-a {
-    color: #1e90ff;
-}
-
-header {
-    background-color: #333;
-}
-
-footer {
-    background-color: #333;
 }
