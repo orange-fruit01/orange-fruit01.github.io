@@ -30,6 +30,12 @@
 - Scripted the predictive model performances and obtained a prediction accuracy of 90.50%, 99.11%, and 99.99% with reference to the Pearson Correlation Coefficient.
 - Developed a front-end application integrated with MongoDB, machine learning models, and mobile application.
 
+### TalentLens: AI-Resume Screener (May 2024 - Aug 2024)
+- Utilized Amazon Titan Embed Text to convert PDF resumes into vector representations for semantic analysis.
+- Deployed Claude Sonnet 3.5 AI to assess resumes based on key criteria like skills, experience, and qualifications.
+- Automated the rating and sorting of applicants, saving time for hiring teams to focus on the most promising candidates.
+- Stored output in Google Sheets and updated applicant information in DynamoDB for seamless tracking and analysis.
+
 ### End-to-End Bread Detection System Using YOLOv11 with Integrated Inventory Management Tracking (Nov 2024 - Dec 2024)
 - Trained and implemented a Computer Vision model (YOLOv11) with 90% accuracy for bread detection and classification.
 - Integrated the system with Excel and Google Sheets for seamless data management and inventory tracking.
@@ -40,11 +46,7 @@
 - Integrated the system with a Raspberry Pi 4, enabling real-time processing and seamless operation.
 - Optimized system performance for hardware accuracy and speed in detecting various Philippine banknotes.
   
-### TalentLens: AI-Resume Screener (May 2024 - Aug 2024)
-- Utilized Amazon Titan Embed Text to convert PDF resumes into vector representations for semantic analysis.
-- Deployed Claude Sonnet 3.5 AI to assess resumes based on key criteria like skills, experience, and qualifications.
-- Automated the rating and sorting of applicants, saving time for hiring teams to focus on the most promising candidates.
-- Stored output in Google Sheets and updated applicant information in DynamoDB for seamless tracking and analysis.
+
 
 
 ## Hobbies and Interests
